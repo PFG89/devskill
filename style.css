@@ -1,0 +1,55 @@
+body{
+background-color:rgba(105, 79, 105, 0.274);
+border-style:dashed;
+border-width: 1px;
+padding:10px;
+margin:40px;}
+
+.presentazione {text-align: left; color: rgb(0, 0, 0); font-size: 92%; margin: 2%;
+    float: right;
+  }
+
+
+table, th {color:rgb(0, 0, 0);
+    border: 1px solid;}
+
+    td {text-align: center; color:rgba(105, 79, 105, 0.274);}
+
+    td:hover {
+        background-color: #000000; color:#ffffff;
+    }
+
+
+
+    .gif {
+        position: absolute;
+        left: 40px;
+        top: 40px;
+        z-index: -1;
+      }
+
+     .logo {
+        position: absolute;
+      top: 80px;
+      }
+
+.titoli {color:#000000; text-align:center; font-style:oblique;}
+
+
+
+h1, h2 { text-align: right;}
+
+p:hover {
+    color: #000000;
+  }
+
+  ul:hover {
+    color: #000000;
+  }
+
+h2:hover {color:#000000;}
+
+
+
+p, ul {text-align: left; color: rgb(105, 79, 105, 0.274);}
+h2 {text-align: right; color: rgb(105, 79, 105, 0.274);}
